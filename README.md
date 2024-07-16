@@ -1,3 +1,83 @@
+# Nobel Prize Data Analysis Project
+
+This project includes various analyses and visualizations using the Nobel Prize dataset. The aim of the project is to answer some important questions related to the Nobel Prizes and share insights gained throughout the process.
+
+## Table of Contents
+1. [About the Dataset](#about-the-dataset)
+2. [Column Name Descriptions](#column-name-descriptions)
+3. [Analyses](#analyses)
+    1. [Top Ten Countries Winning Nobel Prizes](#top-ten-countries-winning-nobel-prizes)
+    2. [First Women Who Won Nobel Prizes](#first-women-who-won-nobel-prizes)
+    3. [First Men Who Won Nobel Prizes](#first-men-who-won-nobel-prizes)
+    4. [Dominance of the Country Winning the Most Nobel Prizes](#dominance-of-the-country-winning-the-most-nobel-prizes)
+    5. [Visualization of Nobel Prize Winners by Gender, Age, Category, and Years](#visualization-of-nobel-prize-winners-by-gender-age-category-and-years)
+    6. [Categories and Countries of Nobel Prize Winners Between 1938-1945](#categories-and-countries-of-nobel-prize-winners-between-1938-1945)
+    7. [Categories and Countries of Nobel Prize Winners Between 1947-1991](#categories-and-countries-of-nobel-prize-winners-between-1947-1991)
+    8. [Countries and Ages of Nobel Prize Winners After 2000](#countries-and-ages-of-nobel-prize-winners-after-2000)
+4. [Files](#files)
+5. [Results and Insights](#results-and-insights)
+
+## About the Dataset
+The dataset used for this project contains Nobel Prize data.
+
+## Column Name Descriptions
+- `year`: The year the Nobel Prize was awarded.
+- `category`: The category of the Nobel Prize (Physics, Chemistry, Peace, Literature, Medicine, etc.).
+- `prize`: The name of the prize.
+- `motivation`: The reason for the award.
+- `prize_share`: The share of the prize (if awarded to multiple people).
+- `laureate_id`: The identifier of the awardee.
+- `laureate_type`: The type of the awardee (Person or Organization).
+- `full_name`: The full name of the awardee.
+- `birth_date`: The birth date of the awardee.
+- `birth_city`: The city where the awardee was born.
+- `birth_country`: The country where the awardee was born.
+- `sex`: The gender of the awardee.
+- `organization_name`: The name of the organization the awardee is affiliated with.
+- `organization_city`: The city where the awardee's organization is located.
+- `organization_country`: The country where the awardee's organization is located.
+- `death_date`: The death date of the awardee (if applicable).
+- `death_city`: The city where the awardee died (if applicable).
+- `death_country`: The country where the awardee died (if applicable).
+
+## Analyses
+
+### Top Ten Countries Winning Nobel Prizes
+The top ten countries winning Nobel Prizes have been analyzed.
+
+### First Women Who Won Nobel Prizes
+The first women who won Nobel Prizes have been listed.
+
+### First Men Who Won Nobel Prizes
+The first men who won Nobel Prizes have been listed.
+
+### Dominance of the Country Winning the Most Nobel Prizes
+The visualization shows from which year the country that has won the most Nobel Prizes gained dominance and analyzes the factors contributing to this dominance.
+
+### Visualization of Nobel Prize Winners by Gender, Age, Category, and Years
+Nobel Prize winners have been visualized by their gender, age, prize category, and years. Separate graphs have been created for each prize category.
+
+### Categories and Countries of Nobel Prize Winners Between 1938-1945
+The categories and countries of Nobel Prize winners between 1938-1945 have been visualized and analyzed.
+
+### Categories and Countries of Nobel Prize Winners Between 1947-1991
+The categories and countries of Nobel Prize winners between 1947-1991 have been visualized. Separate graphs have been created for each category.
+
+### Countries and Ages of Nobel Prize Winners After 2000
+The countries and ages of Nobel Prize winners in the categories of Chemistry, Literature, Peace, Physics, and Medicine after 2000 have been visualized. Separate visualizations have been created for each category.
+
+## Files
+- `EmrahBasPythonProje.ipynb`: The project's Jupyter Notebook file.
+- `Emrah_Bas_Python_Proje_6.png`: Visualization containing analyses and insights for the 6th project question.
+- `README.md`: This file containing explanations of the project.
+
+## Results and Insights
+The results and insights obtained at each stage of the project have been examined in detail. Notably, important findings regarding the first women and men who won Nobel Prizes have been shared. Additionally, the year from which the country that has won the most Nobel Prizes gained dominance and the factors contributing to this dominance have been analyzed in depth. Visualizations have helped us understand the data and provided valuable insights about the demographic characteristics of Nobel Prize winners in various categories.
+
+This README file provides an overview and content about the project. For detailed explanations of project files and analysis results, please refer to the `EmrahBasPythonProje.ipynb` file.
+
+---
+
 # Nobel Ödülleri Veri Analizi Projesi
 
 Bu proje, Nobel Ödülleri veri seti kullanılarak çeşitli analizler ve görselleştirmeler içermektedir. Projenin amacı, Nobel Ödülleri ile ilgili bazı önemli soruları cevaplamak ve bu süreçte elde edilen içgörüleri paylaşmaktır.
